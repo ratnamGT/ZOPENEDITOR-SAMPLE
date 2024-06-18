@@ -215,6 +215,7 @@
        PROCEDURE DIVISION.
       *****************************************************************
        000-MAIN.
+           DISPLAY 'first GT program by Ratnam '
            ACCEPT CURRENT-DATE FROM DATE.
            ACCEPT CURRENT-TIME FROM TIME.
            DISPLAY 'SAM1 STARTED DATE = '
