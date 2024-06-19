@@ -3,4 +3,5 @@
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
            DISPLAY 'HELLO WORLD'.
+           DISPLAY 'HELLO IKAN from GT'.
            STOP RUN.
